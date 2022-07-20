@@ -6,3 +6,5 @@
 	- [[Energy]] is converted from one form to another ([[Energy#Conversation Of Energy]])
 - From [[Equilibrium]] the bob now swings upwards to the other side. It now loses [[Kinetic Energy]] and gains [[Gravitational Potential Energy]]
 - ### Loss in [[Kinetic Energy]] = Gain in [[Gravitational Potential Energy]]
+- If this is an ideal pendulum, the bob will swing up to the same height as the [[Displacement]] on the other side
+	- This is due to the [[Energy#Conversation Of Energy]]

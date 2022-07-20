@@ -1,3 +1,7 @@
 {
-  "translucency": true
+  "translucency": true,
+  "interfaceFontFamily": "SF Pro Rounded",
+  "textFontFamily": "SF Pro Rounded",
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "baseFontSize": 14
 }
