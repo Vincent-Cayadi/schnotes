@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "6e0e319d13da25af",
+        "id": "e7143dfdb701965a",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -57,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "da4f789c6b792d0f",
@@ -120,6 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e0e319d13da25af",
-  "lastOpenFiles": []
+  "active": "e7143dfdb701965a",
+  "lastOpenFiles": [
+    "Pendulum.md",
+    "Energy.md",
+    "Newtons Laws.md",
+    "Chemical Potential Energy.md",
+    "Chemistry.md",
+    "Elastic Potential Energy.md",
+    "Gravitational Potential Energy.md",
+    "Light.md",
+    "Energy Loss.md",
+    "Physics.md"
+  ]
 }

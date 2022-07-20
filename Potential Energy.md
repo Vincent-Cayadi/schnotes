@@ -1,0 +1,1 @@
+Potential Energy is the stored [[Energy]] in a system
