@@ -3,5 +3,6 @@
   "interfaceFontFamily": "SF Pro Rounded",
   "textFontFamily": "SF Pro Rounded",
   "monospaceFontFamily": "FiraCode Nerd Font",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "cssTheme": "Typewriter"
 }

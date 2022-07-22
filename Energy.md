@@ -6,9 +6,6 @@ Energy is a [[Scalar]] quanitity (only has [[Magnitude]])
 # Forms Of Energy
 ## [[Mechanical Energy]]
 - [[Potential Energy ]]
-	- [[Elastic Potential Energy]]
-	- [[Gravitational Potential Energy]]
-	- [[Chemical Potential Energy]]
 - [[Kinetic Energy]]
 ## [[Electrical Energy]]
 ## [[Thermal Energy]]
