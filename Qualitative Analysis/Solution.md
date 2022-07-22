@@ -1,3 +1,4 @@
+# Solution
 A solution consists of a [[Solute]] dissolved in a [[Solvent]].
 Characteristics:
 - A solution is ==homogeneous== (throughout)

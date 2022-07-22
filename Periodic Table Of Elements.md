@@ -2,3 +2,4 @@
 [[Hydrogen]]
 [[Chemical Bonding]]
 [[Noble Gases]]
+#periodic-table-of-elements 

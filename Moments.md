@@ -4,7 +4,7 @@ For a body in equlibrium, the sum of anti clockwise moments about any pivot eqal
 # Defintion
 It is the product of the Force and the Perpendicular distance between the line of action of the force and the pivot
 
-![[Excalidraw/Moments]]
+![[Extras/Physics/Moments]]
 
 
 Related:
