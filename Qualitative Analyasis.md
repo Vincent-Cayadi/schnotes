@@ -30,3 +30,6 @@
 |                                    |                                                |
 
 ### [[Solubility]]
+### [[Cation Test]]
+### [[Anion Test]]
+### [[Gas Test]]
