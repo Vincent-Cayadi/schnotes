@@ -1,5 +1,6 @@
 #chemprac 
 #cation
+#alz
 
 An [[Alkali]] is added to the [[Solution]] that contains the cation to [[Percipitate]] the insoluble [[Metal Hydroxide]] 
 The cation is tested with both ==**aqeous sodium hydroxide**== NaOH(aq) and ==**aqeous ammonia**== NH<sub>3</sub> (aq)

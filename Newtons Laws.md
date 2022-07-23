@@ -1,4 +1,4 @@
-# [[Newtons's First Law]]
-# [[Newtons's Second Law]]
+# [[Newton's First Law]]
+# [[Newton's Second Law]]
 # # [[Newtons's Third Law]]
  

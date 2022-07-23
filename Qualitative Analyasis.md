@@ -1,4 +1,4 @@
-#chemprac 
+
 
 ## Important Terms
 ## [[Solution]]
@@ -20,6 +20,7 @@
 #acids
 #alkali
 #bases
+#chemprac 
 #periodic-table-of-elements 
 ### Odours
 | Substance                          | Odour                                          |
