@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "vimMode": true,
+  "vimMode": false,
   "alwaysUpdateLinks": true
 }

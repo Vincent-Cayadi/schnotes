@@ -1,5 +1,3 @@
-# Definition
-
 # Equation
 ## F<sub>net</sub> = Tension - Weight
 $ma = Tension - Weight$
@@ -13,7 +11,7 @@ $m(a + g) = T$
 ## Upwards/Downwards Velocity
 Since [[Acceleration]] is the rate of change of velocity, if the [[Velocity]] is not changing the [[Acceleration]] is 0 and thus the Tension does not change 
 ## Upwards/Downwards Acceleration
-![[T-Accel]]
+[[T-Accel]]
 Related:
 [[Newton's Second Law]]
 [[Acceleration]]

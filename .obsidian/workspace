@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25457dcb783733d7",
+        "id": "1ee8d0e6acb7c618",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Linear Tension.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "contact",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linear Tension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linear Tension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linear Tension.md"
+              }
             }
           },
           {
@@ -129,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "25457dcb783733d7",
+  "active": "20466bdd1515a1e1",
   "lastOpenFiles": [
-    "Tension.md",
-    "Excalidraw/T-Rest.md",
-    "Excalidraw/T-Accel.md",
-    "Velocity.md",
-    "Acceleration.md",
-    "Gravitational Potential Energy.md",
-    "Excalidraw/NCF 2.md",
-    "Excalidraw/NCF.md",
-    "Suspension.md",
-    "Trigonometry.md"
+    "Energy.md",
+    "Kinematics.md",
+    "Magnitude.md",
+    "Kinetic Energy.md",
+    "Ions.md",
+    "Hydrogen.md",
+    "Excalidraw/ttt.md",
+    "Percipitate.md",
+    "Qualitative Analyasis.md",
+    "Periodic Table Of Elements.md"
   ]
 }
