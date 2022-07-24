@@ -7,8 +7,13 @@
         "id": "667adc50cb660c1a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Acceleration.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Acceleration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Acceleration.md"
+              }
             }
           },
           {
@@ -129,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20466bdd1515a1e1",
+  "active": "667adc50cb660c1a",
   "lastOpenFiles": [
+    "Excalidraw/accele.md",
+    "Excalidraw/Velocity.md",
+    "Acceleration.md",
+    "Kinematics.md",
+    "Velocity.md",
+    "Displacement.md",
+    "2022-07-24.md",
     "Newton's Third Law.md",
     "Newton's Second Law.md",
-    "Inertia.md",
-    "Newton's First Law.md",
-    "Linear Tension.md",
-    "Energy.md",
-    "Kinematics.md",
-    "Magnitude.md",
-    "Kinetic Energy.md",
-    "Ions.md"
+    "Inertia.md"
   ]
 }

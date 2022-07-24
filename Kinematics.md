@@ -1,2 +1,4 @@
-# [[Scalar]]
-# [[Vectors]]
+# [[Displacement]]
+# [[Velocity]]
+# [[Acceleration]]
+

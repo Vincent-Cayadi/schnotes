@@ -6,4 +6,4 @@ It is also known as the Law Of [[Inertia]]
 
 Related:
 [[Equilibrium]]
-[[Vectors]]
+[[Vector]]
