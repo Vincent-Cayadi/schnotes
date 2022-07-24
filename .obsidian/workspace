@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ee8d0e6acb7c618",
+        "id": "667adc50cb660c1a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Linear Tension.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Tension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Tension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linear Tension.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,15 +131,15 @@
   },
   "active": "20466bdd1515a1e1",
   "lastOpenFiles": [
+    "Newton's Third Law.md",
+    "Newton's Second Law.md",
+    "Inertia.md",
+    "Newton's First Law.md",
+    "Linear Tension.md",
     "Energy.md",
     "Kinematics.md",
     "Magnitude.md",
     "Kinetic Energy.md",
-    "Ions.md",
-    "Hydrogen.md",
-    "Excalidraw/ttt.md",
-    "Percipitate.md",
-    "Qualitative Analyasis.md",
-    "Periodic Table Of Elements.md"
+    "Ions.md"
   ]
 }
