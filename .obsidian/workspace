@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Acceleration.md",
+            "file": "Kinematics.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acceleration.md",
+                "file": "Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acceleration.md",
+                "file": "Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acceleration.md"
+                "file": "Kinematics.md"
               }
             }
           },
@@ -140,9 +141,9 @@
   },
   "active": "667adc50cb660c1a",
   "lastOpenFiles": [
+    "Acceleration.md",
     "Excalidraw/accele.md",
     "Excalidraw/Velocity.md",
-    "Acceleration.md",
     "Kinematics.md",
     "Velocity.md",
     "Displacement.md",
