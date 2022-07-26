@@ -1,2 +1,2 @@
 # [[Acids]]
-# [[Bases]]
+# [[Base]]

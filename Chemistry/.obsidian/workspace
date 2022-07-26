@@ -1,13 +1,13 @@
 {
   "main": {
-    "id": "cf30a5870e55267f",
+    "id": "587ca4d73909daad",
     "type": "split",
     "children": [
       {
-        "id": "46ab451b5ece33a0",
+        "id": "682a389910a98fc6",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a5d8e8a4f57004fb",
+    "id": "ff22c0f6081055a1",
     "type": "split",
     "children": [
       {
-        "id": "bf6ff675a5cd800f",
+        "id": "489eeadf9df8f10d",
         "type": "tabs",
         "children": [
           {
-            "id": "2f7af859f43fb8fa",
+            "id": "5a96cf9c5ffdc3f7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "061f260c18f73f0a",
+            "id": "9a84865c4ae33031",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "cca1451a7161448b",
+            "id": "4e895bba79ec5ee2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -60,15 +60,15 @@
     "width": 300
   },
   "right": {
-    "id": "222b9926abbf7d62",
+    "id": "a6d40abb232f0362",
     "type": "split",
     "children": [
       {
-        "id": "08dcdd70c21fed2b",
+        "id": "db08ea5a260c6b95",
         "type": "tabs",
         "children": [
           {
-            "id": "b2b44dda66469038",
+            "id": "17c730d82621fb44",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,7 +84,7 @@
             }
           },
           {
-            "id": "dc9a1e956e1f3949",
+            "id": "4eb98d9fedba0401",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -95,7 +95,7 @@
             }
           },
           {
-            "id": "79158a6487fe0a0b",
+            "id": "a2afb153eb7c062d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,7 +106,7 @@
             }
           },
           {
-            "id": "eb8ade3ce2ac7f5d",
+            "id": "de88cbb2bd9b86e6",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -120,6 +120,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46ab451b5ece33a0",
+  "active": "682a389910a98fc6",
   "lastOpenFiles": []
 }
