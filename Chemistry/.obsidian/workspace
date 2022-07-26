@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "682a389910a98fc6",
+        "id": "9ac8b184aa12a235",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Qualitative Analyasis.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "qua",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,11 +57,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a6d40abb232f0362",
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Qualitative Analyasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Qualitative Analyasis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,16 +118,38 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Qualitative Analyasis.md"
+              }
+            }
+          },
+          {
+            "id": "174da8b243ed2639",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "682a389910a98fc6",
-  "lastOpenFiles": []
+  "active": "9ac8b184aa12a235",
+  "lastOpenFiles": [
+    "Alkali.md",
+    "Anion Test.md",
+    "Base.md",
+    "Acids.md",
+    "Carbonates.md",
+    "Chemical Bonding.md",
+    "Chemical Potential Energy.md",
+    "Chemistry.md",
+    "cationtest.png",
+    "Cation Test.md"
+  ]
 }
