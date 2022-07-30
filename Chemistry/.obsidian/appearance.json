@@ -1,4 +1,5 @@
 {
   "cssTheme": "Minimal",
-  "monospaceFontFamily": "Fira Code"
+  "monospaceFontFamily": "Fira Code",
+  "baseFontSize": 17
 }
