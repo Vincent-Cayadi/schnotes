@@ -11,8 +11,10 @@ A Strong alkali is one which dissociates completely in water to produce a ==high
 Examples:
 Sodium [[Hydroxide]]: NaOH
 Potassium [[Hydroxide]]: KOH
-Calcium [[Hydroxide]]: Ca(OH)<sub>2</sub>
 Barium [[Hydroxide]]: Ba(OH)<sub>2</sub>
 
 ## Weak Alkali
-A Weak Alkali is one which dissociates partially in water to produce a ==low concentration== if [[Hydroxide]] [[Ions]]
+A Weak Alkali is one which dissociates partially in water to produce a ==low concentration== of [[Hydroxide]] [[Ions]]
+
+Examples:
+Calcium [[Hydroxide]]: Ca(OH)<sub>2</sub>

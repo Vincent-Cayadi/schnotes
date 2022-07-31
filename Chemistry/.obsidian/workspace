@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "517f6c61301f97fd",
+        "id": "f9e8b860a3f4e712",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ALZ THE AMPHIBIAN.md",
+            "file": "Alkali.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "87e4ee8ac8010505"
+      },
+      {
+        "id": "2aed9dd388e8346b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Alkali.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "87e4ee8ac8010505"
       }
     ],
     "direction": "vertical"
@@ -40,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "potassium iodid",
+                "query": "pH",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALZ THE AMPHIBIAN.md",
+                "file": "Alkali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALZ THE AMPHIBIAN.md",
+                "file": "Alkali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALZ THE AMPHIBIAN.md"
+                "file": "Alkali.md"
               }
             }
           },
@@ -138,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "517f6c61301f97fd",
+  "active": "2aed9dd388e8346b",
   "lastOpenFiles": [
-    "pH.md",
-    "Salt Preperation.md",
-    "Anion Test.md",
-    "Acids.md",
     "Base.md",
-    "Alkali.md",
-    "ALZ THE AMPHIBIAN.md",
-    "Periodic Table Of Elements.md",
-    "Halides.md",
-    "Qualitative Analyasis.md"
+    "Acids.md",
+    "Qualitative Analyasis.md",
+    "Solubility Of Solids.md",
+    "pH.md",
+    "Water Of Crystallization.md",
+    "Salt Preperation.md",
+    "Precipitate.md",
+    "Cation Test.md",
+    "ALZ THE AMPHIBIAN.md"
   ]
 }
