@@ -37,6 +37,9 @@
 
 # Reaction 
 ## With [[Metal]]s
+
+Metal + Acid -> [[Salt]] + Hydrogen Gas (H<sub>2</sub> (g))
+
 |   Metal   | Symbol | Reaction With Dilute Acid |
 |:---------:|:------:|:-------------------------:|
 | Potassium |   K    |      Yes (Explosive)      |
