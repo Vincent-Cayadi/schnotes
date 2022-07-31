@@ -5,13 +5,13 @@
 An [[Alkali]] is added to the [[Solution]] that contains the cation to [[Precipitate]] the insoluble [[Hydroxide]]
 The cation is tested with both ==**aqueous sodium hydroxide**== NaOH(aq) and ==**aqueous ammonia**== NH<sub>3</sub> (aq)
 |   Cation    |                            NaOH (aq)                             |                          Nh<sub>3</sub> (aq)                          |
-|:-----------:|:----------------------------------------------------------------:|:---------------------------------------------------------------------:|
+|:-----------:|:----------------------------------------------------------------:| :---------------------------------------------------------------------: |
 |  Aluminum   | White Precipitate, Soluble in excess giving a colorless solution |                White Precipitate, Insoluble in excess                 |
 |  Ammonium   |                    Ammonia Produce on warming                    |                                   -                                   |
 |   Calcium   |                        White Precipitate                         |                            No Precipitate                             |
-| Copper (II) |           Light Blue Precipitate, Insoluble in excess            | Light Blue Precipitate, Soluble in excess giving a dark blue solution |
-|  Iron (II)  |              Green Precipitate, Insoluble in excess              |                Green Precipitate, Insoluble in excess                 |
-| Iron (III)  |                Reddish-Brown, Insoluble in excess                |                  Reddish-Brown, Insoluble in excess                   |
+| Copper (II) |           <font style="color:lightblue;">Light Blue</font> Precipitate, Insoluble in excess            | Light Blue Precipitate, Soluble in excess giving a dark blue solution |
+|  Iron (II)  |              <font style="color:green;">Green</font> Precipitate, Insoluble in excess              |                Green Precipitate, Insoluble in excess                 |
+| Iron (III)  |                <font style="color:red;">Reddish-Brown</font>, Insoluble in excess                |                  Reddish-Brown, Insoluble in excess                   |
 |  Lead (II)  | White Precipitate, Soluble in excess giving a colorless solution |                White precipitate, Insoluble in excess                 |
 |    Zinc     | White Precipitate, Soluble in excess giving a colorless solution |   White Precipitate, Soluble in excess giving a colorless solution    |
 
