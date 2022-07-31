@@ -5,7 +5,7 @@ It is a substance that dissociates in water to produce [[Hydroxide]] [[Ions]].
 
 # Strength Of Alkali
 
-## Stronk Alkali
+## Strong Alkali
 A Strong alkali is one which dissociates completely in water to produce a ==high concentration== Of [[Hydroxide]] [[Ion]]s
 
 Examples:
