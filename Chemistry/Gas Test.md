@@ -1,11 +1,11 @@
-|               Gas               |                                            Result                                             |  Odor   | 
-|:-------------------------------:|:---------------------------------------------------------------------------------------------:| :---: |
-|    Ammonia (NH<sub>3</sub>)     |               Turns ==damp== red [[Litmus paper]] blue               |  Pungent Gas   |
-| Carbon Dioxide (CO<sub>2</sub>) | Gives White Precipitate with [[Limewater]] (precipitate dissolves with excess carbon dioxide) |  Odorless   |
-|    Chlorine (Cl<sub>2</sub>)    |                            Bleaches ==damp== red [[Litmus paper]]                             |  Choking   |
-|    Hydrogen (H<sub>2</sub>)     |                                 'Pops' with a lighted splint                                  |   Odorless  |
-|     Oxygen (O<sub>2</sub>)      |                                ==Rekindles== a glowing splint                                 |   Odorless  |
-| Sulfur Dioxide (SO<sub>2</sub>) |         Turns ==aqueous== acidified Potassium Manganate(VII) from purple to colorless         |   Choking resembling the burning of sulfur  |
+|               Gas               |                                            Result                                             |                   Odor                   |
+|:-------------------------------:|:---------------------------------------------------------------------------------------------:|:----------------------------------------:|
+|    Ammonia (NH<sub>3</sub>)     |                           Turns ==damp== red [[Litmus paper]] blue                            |               Pungent Gas                |
+| Carbon Dioxide (CO<sub>2</sub>) | Gives White Precipitate with [[Limewater]] (precipitate dissolves with excess carbon dioxide) |                 Odorless                 |
+|    Chlorine (Cl<sub>2</sub>)    |                            Bleaches ==damp== red [[Litmus paper]]                             |                 Choking                  |
+|    Hydrogen (H<sub>2</sub>)     |                                 'Pops' with a lighted splint                                  |                 Odorless                 |
+|     Oxygen (O<sub>2</sub>)      |                                ==Rekindles== a glowing splint                                 |                 Odorless                 |
+| Sulfur Dioxide (SO<sub>2</sub>) |         Turns ==aqueous== acidified Potassium Manganate(VII) from purple to colorless         | Choking resembling the burning of sulfur |
 
 # Notes
 ## Ammonia

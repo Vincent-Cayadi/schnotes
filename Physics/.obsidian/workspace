@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "d13fc6944842f243",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b6d1ce8601abb43",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Moments.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f1f490ccb65bea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b60cf7bd404200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "901f49e8eeba69f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2beeead59ad8c072",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3723bee08432763",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a4cd7fcb6341fd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bb16be9c10e1029",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e3549ee6fab9fc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Moments.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2344b5bc57604896",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Moments.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "717c486edb01ce04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04ff8b518dc10b7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Moments.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8b6d1ce8601abb43",
+  "lastOpenFiles": [
+    "Newton's First Law.md",
+    "Newton's Second Law.md",
+    "Newtons Laws.md",
+    "Noble Gases.md",
+    "Excalidraw/NCF.md",
+    "Normal Force.md",
+    "Physics.md",
+    "Potential Energy.md",
+    "Excalidraw/ht.md",
+    "Excalidraw/Drawing 2022-07-26 09.33.46.excalidraw.md"
+  ]
+}

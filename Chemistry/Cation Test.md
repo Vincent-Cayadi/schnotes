@@ -4,7 +4,7 @@
 
 An [[Alkali]] is added to the [[Solution]] that contains the cation to [[Precipitate]] the insoluble [[Hydroxide]]
 The cation is tested with both ==**aqueous sodium hydroxide**== NaOH(aq) and ==**aqueous ammonia**== NH<sub>3</sub> (aq)
-|   Cation    |                            NaOH (aq)                             |                          Nh<sub>3</sub> (aq)                          |
+|   Cation    |                            NaOH (aq)                             |                          NHter<sub>3</sub> (aq)                          |
 |:-----------:|:----------------------------------------------------------------:| :---------------------------------------------------------------------: |
 |  Aluminum   | White Precipitate, Soluble in excess giving a colorless solution |                White Precipitate, Insoluble in excess                 |
 |  Ammonium   |                    Ammonia Produce on warming                    |                                   -                                   |
